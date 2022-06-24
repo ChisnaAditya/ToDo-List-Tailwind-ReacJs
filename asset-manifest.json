@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToDo-List-Tailwind-ReacJs/static/css/main.dc96c50c.css",
+    "main.js": "/ToDo-List-Tailwind-ReacJs/static/js/main.361085a3.js",
+    "index.html": "/ToDo-List-Tailwind-ReacJs/index.html",
+    "main.dc96c50c.css.map": "/ToDo-List-Tailwind-ReacJs/static/css/main.dc96c50c.css.map",
+    "main.361085a3.js.map": "/ToDo-List-Tailwind-ReacJs/static/js/main.361085a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc96c50c.css",
+    "static/js/main.361085a3.js"
+  ]
+}
