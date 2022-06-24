@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container-content {
+    @apply bg-slate-800 dark:bg-orange-700 m-6 mx-auto
+    max-w-md md:max-w-2xl lg:max-w-4xl
+  }
+  .title-style {
+    @apply text-slate-50 text-center text-5xl font-Righteous pb-6
+  }
+}
